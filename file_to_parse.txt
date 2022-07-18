@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std
+int main(){ 
+    //comment  line
+    cout << "_hello1 123 123.3 223.e4 0xabcdef 0b11110001 012343e7l 0xafffllu 02345.4 1234l world" << endl;
+return 0; }
